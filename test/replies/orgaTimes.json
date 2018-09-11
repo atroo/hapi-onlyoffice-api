@@ -1,0 +1,675 @@
+{
+    "count": 31,
+    "total": 31,
+    "status": 0,
+    "statusCode": 200,
+    "response": [{
+        "canEdit": true,
+        "id": 125387,
+        "date": "2015-01-09T00:00:00.0000000+01:00",
+        "hours": 0.5,
+        "note": "Nachbereitung Meeting 09.01",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 125406,
+        "date": "2015-01-09T00:00:00.0000000+01:00",
+        "hours": 0.45,
+        "note": "TelkoAbstimmung 09.01",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 125407,
+        "date": "2015-01-09T00:00:00.0000000+01:00",
+        "hours": 0.45,
+        "note": "TelkoAbstiimung 09.01",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 125423,
+        "date": "2015-01-09T00:00:00.0000000+01:00",
+        "hours": 0.817222,
+        "note": "Telko Oli2 Whitepaper & Telko Oli2 & Peter HU2 Milestones",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 125796,
+        "date": "2015-01-12T00:00:00.0000000+01:00",
+        "hours": 0.132222,
+        "note": "",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 125872,
+        "date": "2015-01-12T00:00:00.0000000+01:00",
+        "hours": 0.104167,
+        "note": "",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 126079,
+        "date": "2015-01-13T00:00:00.0000000+01:00",
+        "hours": 0.186667,
+        "note": "mit Robert Nagler -> SSO DDV",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 126081,
+        "date": "2015-01-13T00:00:00.0000000+01:00",
+        "hours": 0.0833333,
+        "note": "Matthias -> article.css",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 126275,
+        "date": "2015-01-14T00:00:00.0000000+01:00",
+        "hours": 0.323056,
+        "note": "Planungsmeeting KW4",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 126276,
+        "date": "2015-01-14T00:00:00.0000000+01:00",
+        "hours": 0.359722,
+        "note": "Planungsmeeting KW4",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 126284,
+        "date": "2015-01-14T00:00:00.0000000+01:00",
+        "hours": 0.274167,
+        "note": "vorbereitungsmeeting golive tamedia",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 126335,
+        "date": "2015-01-14T00:00:00.0000000+01:00",
+        "hours": 1.1525,
+        "note": "robert nagler zu fuw build umgebung",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 126489,
+        "date": "2015-01-15T00:00:00.0000000+01:00",
+        "hours": 0.326667,
+        "note": "skype mit basti -> vhb bugs & anforderungen",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 126666,
+        "date": "2015-01-16T00:00:00.0000000+01:00",
+        "hours": 0.450278,
+        "note": "robert nagler -> nkz assetview",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 126911,
+        "date": "2015-01-18T00:00:00.0000000+01:00",
+        "hours": 0.466667,
+        "note": "TP Aufbereitung",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127192,
+        "date": "2015-01-19T00:00:00.0000000+01:00",
+        "hours": 1.91667,
+        "note": "whitepaper deployment",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127279,
+        "date": "2015-01-20T00:00:00.0000000+01:00",
+        "hours": 1.48333,
+        "note": "deplyoment whitepaper & hu2 einführungs gespräch mit oli2",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127348,
+        "date": "2015-01-20T00:00:00.0000000+01:00",
+        "hours": 0.609444,
+        "note": "Deplyoment Whitepaper und TP Eintragungen",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127355,
+        "date": "2015-01-20T00:00:00.0000000+01:00",
+        "hours": 0.570833,
+        "note": "Telko mit Matthias -> TAMEDIA \/ NEO + Cockpit offene Punkte",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127369,
+        "date": "2015-01-20T00:00:00.0000000+01:00",
+        "hours": 0.588056,
+        "note": "RobertN -> Nachladen Artikelbilder wenn abgelaufen (NKZ)",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127587,
+        "date": "2015-01-21T00:00:00.0000000+01:00",
+        "hours": 0.720278,
+        "note": "RobertN -> SZ SSO",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127627,
+        "date": "2015-01-21T00:00:00.0000000+01:00",
+        "hours": 0.25,
+        "note": "RobertN, OliSchulz -> DDV epAPI-Update",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127659,
+        "date": "2015-01-21T00:00:00.0000000+01:00",
+        "hours": 0.216667,
+        "note": "Planungsmeeting -> KW 5",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127661,
+        "date": "2015-01-21T00:00:00.0000000+01:00",
+        "hours": 0.216667,
+        "note": "Planungsmeeting KW5",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 127667,
+        "date": "2015-01-21T00:00:00.0000000+01:00",
+        "hours": 0.1825,
+        "note": "Matthias -> TAGI Auth",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 129115,
+        "date": "2015-01-27T00:00:00.0000000+01:00",
+        "hours": 0.25,
+        "note": "Matthias -> Stand TAGI Layout",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 129427,
+        "date": "2015-01-28T00:00:00.0000000+01:00",
+        "hours": 0.146111,
+        "note": "",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 129429,
+        "date": "2015-01-28T00:00:00.0000000+01:00",
+        "hours": 0.15,
+        "note": "",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 129724,
+        "date": "2015-01-29T00:00:00.0000000+01:00",
+        "hours": 2.6575,
+        "note": "",
+        "relatedProject": 94603,
+        "relatedTask": 406435,
+        "relatedTaskTitle": "Vitalii - Einarbeitung",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 129770,
+        "date": "2015-01-29T00:00:00.0000000+01:00",
+        "hours": 0.301111,
+        "note": "Matthias -> TAMEDIA Cockpit",
+        "relatedProject": 94603,
+        "relatedTask": 393069,
+        "relatedTaskTitle": "Telkos\/Meetings\/Abstimmungen Januar",
+        "createdBy": {
+            "id": "44851dd7-e32f-4d6d-99fc-621469fa1ddd",
+            "displayName": "Martin Foerster",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=martin.foerster"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }, {
+        "canEdit": true,
+        "id": 130129,
+        "date": "2015-01-30T00:00:00.0000000+01:00",
+        "hours": 0.309444,
+        "note": "",
+        "relatedProject": 94603,
+        "relatedTask": 406435,
+        "relatedTaskTitle": "Vitalii - Einarbeitung",
+        "createdBy": {
+            "id": "8bf5a008-9ce8-425d-9cb2-1e2946892f3a",
+            "displayName": "Robert Kr&#252;ger",
+            "title": "Gesellschafter",
+            "avatarSmall": "https:\/\/d3b5653v7ash7c.cloudfront.net\/studio\/tag\/8.1.0\/skins\/default\/images\/default_user_photo_size_200-200.png",
+            "profileUrl": "\/products\/people\/profile.aspx?user=robert"
+        },
+        "person": null,
+        "paymentStatus": 2,
+        "statusChanged": "0001-01-01T00:00:00.0000000Z",
+        "canEditPaymentStatus": true
+    }]
+}
